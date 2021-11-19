@@ -4,8 +4,9 @@ Aprendizado de máquina para a seleção de linhagem de tomateiros baseada em da
 ## Turma e nomes
 ### 2TDSF
 - Gabriel Henrique
-- Pedro Dib
 - Antonio Sassine
+### 2TDST
+- Pedro Dib
 
 ## Link do vídeo de demonstração
 https://youtu.be/ELZoJb4W1LU
